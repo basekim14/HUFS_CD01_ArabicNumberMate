@@ -1,4 +1,4 @@
-# HUFS_CD01_PloggingBot
+# HUFS_CD01_ArabNumberMate
 ### 공학설계 1조
 
 
