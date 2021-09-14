@@ -1,0 +1,3814 @@
+{
+	"responses": [
+		{
+			"textAnnotations": [
+				{
+					"locale": "en",
+					"description": "a\na\nalamy\na\nalamy\na\nalamy\n43646\nابوظبي\nalamy\na\na alamy stock photo\nA8G79J\nwww.alamy.com\nABU\n",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 9,
+								"y": 31
+							},
+							{
+								"x": 1265,
+								"y": 31
+							},
+							{
+								"x": 1265,
+								"y": 937
+							},
+							{
+								"x": 9,
+								"y": 937
+							}
+						]
+					}
+				},
+				{
+					"description": "a",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 952,
+								"y": 31
+							},
+							{
+								"x": 969,
+								"y": 31
+							},
+							{
+								"x": 969,
+								"y": 53
+							},
+							{
+								"x": 952,
+								"y": 53
+							}
+						]
+					}
+				},
+				{
+					"description": "a",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 1248,
+								"y": 31
+							},
+							{
+								"x": 1265,
+								"y": 31
+							},
+							{
+								"x": 1265,
+								"y": 53
+							},
+							{
+								"x": 1248,
+								"y": 53
+							}
+						]
+					}
+				},
+				{
+					"description": "alamy",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 9,
+								"y": 326
+							},
+							{
+								"x": 118,
+								"y": 241
+							},
+							{
+								"x": 150,
+								"y": 283
+							},
+							{
+								"x": 42,
+								"y": 368
+							}
+						]
+					}
+				},
+				{
+					"description": "a",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 1088,
+								"y": 162
+							},
+							{
+								"x": 1112,
+								"y": 157
+							},
+							{
+								"x": 1117,
+								"y": 186
+							},
+							{
+								"x": 1094,
+								"y": 190
+							}
+						]
+					}
+				},
+				{
+					"description": "alamy",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 877,
+								"y": 330
+							},
+							{
+								"x": 988,
+								"y": 248
+							},
+							{
+								"x": 1022,
+								"y": 294
+							},
+							{
+								"x": 911,
+								"y": 376
+							}
+						]
+					}
+				},
+				{
+					"description": "a",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 791,
+								"y": 415
+							},
+							{
+								"x": 831,
+								"y": 415
+							},
+							{
+								"x": 831,
+								"y": 444
+							},
+							{
+								"x": 791,
+								"y": 444
+							}
+						]
+					}
+				},
+				{
+					"description": "alamy",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 419,
+								"y": 485
+							},
+							{
+								"x": 544,
+								"y": 368
+							},
+							{
+								"x": 586,
+								"y": 413
+							},
+							{
+								"x": 461,
+								"y": 530
+							}
+						]
+					}
+				},
+				{
+					"description": "43646",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 319,
+								"y": 544
+							},
+							{
+								"x": 964,
+								"y": 665
+							},
+							{
+								"x": 931,
+								"y": 837
+							},
+							{
+								"x": 287,
+								"y": 716
+							}
+						]
+					}
+				},
+				{
+					"description": "ابوظبي",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 358,
+								"y": 589
+							},
+							{
+								"x": 544,
+								"y": 596
+							},
+							{
+								"x": 540,
+								"y": 692
+							},
+							{
+								"x": 354,
+								"y": 685
+							}
+						]
+					}
+				},
+				{
+					"description": "alamy",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 724,
+								"y": 706
+							},
+							{
+								"x": 829,
+								"y": 621
+							},
+							{
+								"x": 872,
+								"y": 674
+							},
+							{
+								"x": 767,
+								"y": 759
+							}
+						]
+					}
+				},
+				{
+					"description": "a",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 1099,
+								"y": 677
+							},
+							{
+								"x": 1116,
+								"y": 678
+							},
+							{
+								"x": 1114,
+								"y": 700
+							},
+							{
+								"x": 1098,
+								"y": 699
+							}
+						]
+					}
+				},
+				{
+					"description": "a",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 48,
+								"y": 885
+							},
+							{
+								"x": 97,
+								"y": 885
+							},
+							{
+								"x": 97,
+								"y": 936
+							},
+							{
+								"x": 48,
+								"y": 936
+							}
+						]
+					}
+				},
+				{
+					"description": "alamy",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 118,
+								"y": 885
+							},
+							{
+								"x": 252,
+								"y": 884
+							},
+							{
+								"x": 252,
+								"y": 936
+							},
+							{
+								"x": 118,
+								"y": 937
+							}
+						]
+					}
+				},
+				{
+					"description": "stock",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 266,
+								"y": 886
+							},
+							{
+								"x": 375,
+								"y": 885
+							},
+							{
+								"x": 375,
+								"y": 925
+							},
+							{
+								"x": 266,
+								"y": 926
+							}
+						]
+					}
+				},
+				{
+					"description": "photo",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 392,
+								"y": 886
+							},
+							{
+								"x": 510,
+								"y": 885
+							},
+							{
+								"x": 510,
+								"y": 935
+							},
+							{
+								"x": 392,
+								"y": 936
+							}
+						]
+					}
+				},
+				{
+					"description": "A8G79J",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 1186,
+								"y": 895
+							},
+							{
+								"x": 1242,
+								"y": 895
+							},
+							{
+								"x": 1242,
+								"y": 906
+							},
+							{
+								"x": 1186,
+								"y": 906
+							}
+						]
+					}
+				},
+				{
+					"description": "www.alamy.com",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 1122,
+								"y": 919
+							},
+							{
+								"x": 1243,
+								"y": 919
+							},
+							{
+								"x": 1243,
+								"y": 936
+							},
+							{
+								"x": 1122,
+								"y": 936
+							}
+						]
+					}
+				},
+				{
+					"description": "ABU",
+					"boundingPoly": {
+						"vertices": [
+							{
+								"x": 361,
+								"y": 668
+							},
+							{
+								"x": 407,
+								"y": 727
+							},
+							{
+								"x": 368,
+								"y": 757
+							},
+							{
+								"x": 322,
+								"y": 698
+							}
+						]
+					}
+				}
+			],
+			"fullTextAnnotation": {
+				"pages": [
+					{
+						"property": {
+							"detectedLanguages": [
+								{
+									"languageCode": "en",
+									"confidence": 0.49
+								},
+								{
+									"languageCode": "ar",
+									"confidence": 0.08
+								}
+							]
+						},
+						"width": 1300,
+						"height": 956,
+						"blocks": [
+							{
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 952,
+											"y": 31
+										},
+										{
+											"x": 969,
+											"y": 31
+										},
+										{
+											"x": 969,
+											"y": 53
+										},
+										{
+											"x": 952,
+											"y": 53
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 952,
+													"y": 31
+												},
+												{
+													"x": 969,
+													"y": 31
+												},
+												{
+													"x": 969,
+													"y": 53
+												},
+												{
+													"x": 952,
+													"y": 53
+												}
+											]
+										},
+										"words": [
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 952,
+															"y": 31
+														},
+														{
+															"x": 969,
+															"y": 31
+														},
+														{
+															"x": 969,
+															"y": 53
+														},
+														{
+															"x": 952,
+															"y": 53
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 952,
+																	"y": 31
+																},
+																{
+																	"x": 969,
+																	"y": 31
+																},
+																{
+																	"x": 969,
+																	"y": 53
+																},
+																{
+																	"x": 952,
+																	"y": 53
+																}
+															]
+														},
+														"text": "a"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 1248,
+											"y": 31
+										},
+										{
+											"x": 1265,
+											"y": 31
+										},
+										{
+											"x": 1265,
+											"y": 53
+										},
+										{
+											"x": 1248,
+											"y": 53
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 1248,
+													"y": 31
+												},
+												{
+													"x": 1265,
+													"y": 31
+												},
+												{
+													"x": 1265,
+													"y": 53
+												},
+												{
+													"x": 1248,
+													"y": 53
+												}
+											]
+										},
+										"words": [
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 1248,
+															"y": 31
+														},
+														{
+															"x": 1265,
+															"y": 31
+														},
+														{
+															"x": 1265,
+															"y": 53
+														},
+														{
+															"x": 1248,
+															"y": 53
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1248,
+																	"y": 31
+																},
+																{
+																	"x": 1265,
+																	"y": 31
+																},
+																{
+																	"x": 1265,
+																	"y": 53
+																},
+																{
+																	"x": 1248,
+																	"y": 53
+																}
+															]
+														},
+														"text": "a"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"property": {
+									"detectedLanguages": [
+										{
+											"languageCode": "en",
+											"confidence": 1
+										}
+									]
+								},
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 9,
+											"y": 326
+										},
+										{
+											"x": 118,
+											"y": 241
+										},
+										{
+											"x": 150,
+											"y": 283
+										},
+										{
+											"x": 42,
+											"y": 368
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"property": {
+											"detectedLanguages": [
+												{
+													"languageCode": "en",
+													"confidence": 1
+												}
+											]
+										},
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 9,
+													"y": 326
+												},
+												{
+													"x": 118,
+													"y": 241
+												},
+												{
+													"x": 150,
+													"y": 283
+												},
+												{
+													"x": 42,
+													"y": 368
+												}
+											]
+										},
+										"words": [
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "en"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 9,
+															"y": 326
+														},
+														{
+															"x": 118,
+															"y": 241
+														},
+														{
+															"x": 150,
+															"y": 283
+														},
+														{
+															"x": 42,
+															"y": 368
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 9,
+																	"y": 326
+																},
+																{
+																	"x": 41,
+																	"y": 301
+																},
+																{
+																	"x": 73,
+																	"y": 342
+																},
+																{
+																	"x": 41,
+																	"y": 367
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 42,
+																	"y": 301
+																},
+																{
+																	"x": 62,
+																	"y": 285
+																},
+																{
+																	"x": 94,
+																	"y": 326
+																},
+																{
+																	"x": 74,
+																	"y": 342
+																}
+															]
+														},
+														"text": "l"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 63,
+																	"y": 284
+																},
+																{
+																	"x": 69,
+																	"y": 279
+																},
+																{
+																	"x": 101,
+																	"y": 320
+																},
+																{
+																	"x": 95,
+																	"y": 325
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 70,
+																	"y": 279
+																},
+																{
+																	"x": 97,
+																	"y": 258
+																},
+																{
+																	"x": 129,
+																	"y": 299
+																},
+																{
+																	"x": 102,
+																	"y": 320
+																}
+															]
+														},
+														"text": "m"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															],
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 99,
+																	"y": 257
+																},
+																{
+																	"x": 119,
+																	"y": 242
+																},
+																{
+																	"x": 151,
+																	"y": 283
+																},
+																{
+																	"x": 131,
+																	"y": 298
+																}
+															]
+														},
+														"text": "y"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 1088,
+											"y": 162
+										},
+										{
+											"x": 1112,
+											"y": 157
+										},
+										{
+											"x": 1117,
+											"y": 186
+										},
+										{
+											"x": 1094,
+											"y": 190
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 1088,
+													"y": 162
+												},
+												{
+													"x": 1112,
+													"y": 157
+												},
+												{
+													"x": 1117,
+													"y": 186
+												},
+												{
+													"x": 1094,
+													"y": 190
+												}
+											]
+										},
+										"words": [
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 1088,
+															"y": 162
+														},
+														{
+															"x": 1112,
+															"y": 157
+														},
+														{
+															"x": 1117,
+															"y": 186
+														},
+														{
+															"x": 1094,
+															"y": 190
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1088,
+																	"y": 162
+																},
+																{
+																	"x": 1112,
+																	"y": 157
+																},
+																{
+																	"x": 1117,
+																	"y": 186
+																},
+																{
+																	"x": 1094,
+																	"y": 190
+																}
+															]
+														},
+														"text": "a"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"property": {
+									"detectedLanguages": [
+										{
+											"languageCode": "en",
+											"confidence": 1
+										}
+									]
+								},
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 877,
+											"y": 330
+										},
+										{
+											"x": 988,
+											"y": 248
+										},
+										{
+											"x": 1022,
+											"y": 294
+										},
+										{
+											"x": 911,
+											"y": 376
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"property": {
+											"detectedLanguages": [
+												{
+													"languageCode": "en",
+													"confidence": 1
+												}
+											]
+										},
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 877,
+													"y": 330
+												},
+												{
+													"x": 988,
+													"y": 248
+												},
+												{
+													"x": 1022,
+													"y": 294
+												},
+												{
+													"x": 911,
+													"y": 376
+												}
+											]
+										},
+										"words": [
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "en"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 877,
+															"y": 330
+														},
+														{
+															"x": 988,
+															"y": 248
+														},
+														{
+															"x": 1022,
+															"y": 294
+														},
+														{
+															"x": 911,
+															"y": 376
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 878,
+																	"y": 331
+																},
+																{
+																	"x": 912,
+																	"y": 306
+																},
+																{
+																	"x": 945,
+																	"y": 351
+																},
+																{
+																	"x": 911,
+																	"y": 376
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 913,
+																	"y": 305
+																},
+																{
+																	"x": 936,
+																	"y": 288
+																},
+																{
+																	"x": 969,
+																	"y": 334
+																},
+																{
+																	"x": 946,
+																	"y": 350
+																}
+															]
+														},
+														"text": "l"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 936,
+																	"y": 288
+																},
+																{
+																	"x": 943,
+																	"y": 283
+																},
+																{
+																	"x": 976,
+																	"y": 328
+																},
+																{
+																	"x": 969,
+																	"y": 333
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 944,
+																	"y": 282
+																},
+																{
+																	"x": 975,
+																	"y": 259
+																},
+																{
+																	"x": 1008,
+																	"y": 305
+																},
+																{
+																	"x": 977,
+																	"y": 327
+																}
+															]
+														},
+														"text": "m"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															],
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 974,
+																	"y": 259
+																},
+																{
+																	"x": 988,
+																	"y": 248
+																},
+																{
+																	"x": 1022,
+																	"y": 293
+																},
+																{
+																	"x": 1007,
+																	"y": 304
+																}
+															]
+														},
+														"text": "y"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 791,
+											"y": 415
+										},
+										{
+											"x": 831,
+											"y": 415
+										},
+										{
+											"x": 831,
+											"y": 444
+										},
+										{
+											"x": 791,
+											"y": 444
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 791,
+													"y": 415
+												},
+												{
+													"x": 831,
+													"y": 415
+												},
+												{
+													"x": 831,
+													"y": 444
+												},
+												{
+													"x": 791,
+													"y": 444
+												}
+											]
+										},
+										"words": [
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 791,
+															"y": 415
+														},
+														{
+															"x": 831,
+															"y": 415
+														},
+														{
+															"x": 831,
+															"y": 444
+														},
+														{
+															"x": 791,
+															"y": 444
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 791,
+																	"y": 415
+																},
+																{
+																	"x": 831,
+																	"y": 415
+																},
+																{
+																	"x": 831,
+																	"y": 444
+																},
+																{
+																	"x": 791,
+																	"y": 444
+																}
+															]
+														},
+														"text": "a"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"property": {
+									"detectedLanguages": [
+										{
+											"languageCode": "en",
+											"confidence": 1
+										}
+									]
+								},
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 419,
+											"y": 485
+										},
+										{
+											"x": 544,
+											"y": 368
+										},
+										{
+											"x": 586,
+											"y": 413
+										},
+										{
+											"x": 461,
+											"y": 530
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"property": {
+											"detectedLanguages": [
+												{
+													"languageCode": "en",
+													"confidence": 1
+												}
+											]
+										},
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 419,
+													"y": 485
+												},
+												{
+													"x": 544,
+													"y": 368
+												},
+												{
+													"x": 586,
+													"y": 413
+												},
+												{
+													"x": 461,
+													"y": 530
+												}
+											]
+										},
+										"words": [
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "en"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 419,
+															"y": 485
+														},
+														{
+															"x": 544,
+															"y": 368
+														},
+														{
+															"x": 586,
+															"y": 413
+														},
+														{
+															"x": 461,
+															"y": 530
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 420,
+																	"y": 486
+																},
+																{
+																	"x": 478,
+																	"y": 432
+																},
+																{
+																	"x": 519,
+																	"y": 476
+																},
+																{
+																	"x": 462,
+																	"y": 531
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 478,
+																	"y": 431
+																},
+																{
+																	"x": 500,
+																	"y": 410
+																},
+																{
+																	"x": 542,
+																	"y": 455
+																},
+																{
+																	"x": 520,
+																	"y": 476
+																}
+															]
+														},
+														"text": "l"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 501,
+																	"y": 410
+																},
+																{
+																	"x": 508,
+																	"y": 404
+																},
+																{
+																	"x": 549,
+																	"y": 448
+																},
+																{
+																	"x": 543,
+																	"y": 455
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 508,
+																	"y": 403
+																},
+																{
+																	"x": 530,
+																	"y": 382
+																},
+																{
+																	"x": 572,
+																	"y": 427
+																},
+																{
+																	"x": 550,
+																	"y": 448
+																}
+															]
+														},
+														"text": "m"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															],
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 530,
+																	"y": 382
+																},
+																{
+																	"x": 545,
+																	"y": 368
+																},
+																{
+																	"x": 586,
+																	"y": 413
+																},
+																{
+																	"x": 572,
+																	"y": 427
+																}
+															]
+														},
+														"text": "y"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 319,
+											"y": 544
+										},
+										{
+											"x": 964,
+											"y": 665
+										},
+										{
+											"x": 931,
+											"y": 837
+										},
+										{
+											"x": 287,
+											"y": 716
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 319,
+													"y": 544
+												},
+												{
+													"x": 964,
+													"y": 665
+												},
+												{
+													"x": 931,
+													"y": 837
+												},
+												{
+													"x": 287,
+													"y": 716
+												}
+											]
+										},
+										"words": [
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 319,
+															"y": 544
+														},
+														{
+															"x": 964,
+															"y": 665
+														},
+														{
+															"x": 931,
+															"y": 837
+														},
+														{
+															"x": 287,
+															"y": 716
+														}
+													]
+												},
+												"symbols": [
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 319,
+																	"y": 544
+																},
+																{
+																	"x": 703,
+																	"y": 616
+																},
+																{
+																	"x": 671,
+																	"y": 788
+																},
+																{
+																	"x": 287,
+																	"y": 716
+																}
+															]
+														},
+														"text": "4"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 705,
+																	"y": 617
+																},
+																{
+																	"x": 759,
+																	"y": 627
+																},
+																{
+																	"x": 727,
+																	"y": 799
+																},
+																{
+																	"x": 673,
+																	"y": 789
+																}
+															]
+														},
+														"text": "3"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 760,
+																	"y": 627
+																},
+																{
+																	"x": 822,
+																	"y": 639
+																},
+																{
+																	"x": 790,
+																	"y": 811
+																},
+																{
+																	"x": 728,
+																	"y": 799
+																}
+															]
+														},
+														"text": "6"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 823,
+																	"y": 639
+																},
+																{
+																	"x": 877,
+																	"y": 649
+																},
+																{
+																	"x": 845,
+																	"y": 821
+																},
+																{
+																	"x": 791,
+																	"y": 811
+																}
+															]
+														},
+														"text": "4"
+													},
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 878,
+																	"y": 649
+																},
+																{
+																	"x": 963,
+																	"y": 665
+																},
+																{
+																	"x": 931,
+																	"y": 837
+																},
+																{
+																	"x": 846,
+																	"y": 821
+																}
+															]
+														},
+														"text": "6"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"property": {
+									"detectedLanguages": [
+										{
+											"languageCode": "ar",
+											"confidence": 1
+										}
+									]
+								},
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 358,
+											"y": 589
+										},
+										{
+											"x": 544,
+											"y": 596
+										},
+										{
+											"x": 540,
+											"y": 692
+										},
+										{
+											"x": 354,
+											"y": 685
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"property": {
+											"detectedLanguages": [
+												{
+													"languageCode": "ar",
+													"confidence": 1
+												}
+											]
+										},
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 358,
+													"y": 589
+												},
+												{
+													"x": 544,
+													"y": 596
+												},
+												{
+													"x": 540,
+													"y": 692
+												},
+												{
+													"x": 354,
+													"y": 685
+												}
+											]
+										},
+										"words": [
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "ar"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 358,
+															"y": 589
+														},
+														{
+															"x": 544,
+															"y": 596
+														},
+														{
+															"x": 540,
+															"y": 692
+														},
+														{
+															"x": 354,
+															"y": 685
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "ar"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 526,
+																	"y": 596
+																},
+																{
+																	"x": 544,
+																	"y": 597
+																},
+																{
+																	"x": 540,
+																	"y": 692
+																},
+																{
+																	"x": 522,
+																	"y": 691
+																}
+															]
+														},
+														"text": "ا"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "ar"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 510,
+																	"y": 595
+																},
+																{
+																	"x": 525,
+																	"y": 596
+																},
+																{
+																	"x": 521,
+																	"y": 691
+																},
+																{
+																	"x": 506,
+																	"y": 690
+																}
+															]
+														},
+														"text": "ب"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "ar"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 478,
+																	"y": 594
+																},
+																{
+																	"x": 509,
+																	"y": 595
+																},
+																{
+																	"x": 505,
+																	"y": 690
+																},
+																{
+																	"x": 474,
+																	"y": 689
+																}
+															]
+														},
+														"text": "و"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "ar"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 430,
+																	"y": 592
+																},
+																{
+																	"x": 477,
+																	"y": 594
+																},
+																{
+																	"x": 473,
+																	"y": 689
+																},
+																{
+																	"x": 426,
+																	"y": 687
+																}
+															]
+														},
+														"text": "ظ"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "ar"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 414,
+																	"y": 592
+																},
+																{
+																	"x": 429,
+																	"y": 593
+																},
+																{
+																	"x": 425,
+																	"y": 688
+																},
+																{
+																	"x": 410,
+																	"y": 687
+																}
+															]
+														},
+														"text": "ب"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "ar"
+																}
+															],
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 358,
+																	"y": 589
+																},
+																{
+																	"x": 413,
+																	"y": 591
+																},
+																{
+																	"x": 409,
+																	"y": 686
+																},
+																{
+																	"x": 354,
+																	"y": 684
+																}
+															]
+														},
+														"text": "ي"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"property": {
+									"detectedLanguages": [
+										{
+											"languageCode": "en",
+											"confidence": 1
+										}
+									]
+								},
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 724,
+											"y": 706
+										},
+										{
+											"x": 829,
+											"y": 621
+										},
+										{
+											"x": 872,
+											"y": 674
+										},
+										{
+											"x": 767,
+											"y": 759
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"property": {
+											"detectedLanguages": [
+												{
+													"languageCode": "en",
+													"confidence": 1
+												}
+											]
+										},
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 724,
+													"y": 706
+												},
+												{
+													"x": 829,
+													"y": 621
+												},
+												{
+													"x": 872,
+													"y": 674
+												},
+												{
+													"x": 767,
+													"y": 759
+												}
+											]
+										},
+										"words": [
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "en"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 724,
+															"y": 706
+														},
+														{
+															"x": 829,
+															"y": 621
+														},
+														{
+															"x": 872,
+															"y": 674
+														},
+														{
+															"x": 767,
+															"y": 759
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 724,
+																	"y": 706
+																},
+																{
+																	"x": 763,
+																	"y": 675
+																},
+																{
+																	"x": 806,
+																	"y": 728
+																},
+																{
+																	"x": 767,
+																	"y": 759
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 764,
+																	"y": 674
+																},
+																{
+																	"x": 781,
+																	"y": 660
+																},
+																{
+																	"x": 824,
+																	"y": 713
+																},
+																{
+																	"x": 807,
+																	"y": 727
+																}
+															]
+														},
+														"text": "l"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 782,
+																	"y": 659
+																},
+																{
+																	"x": 791,
+																	"y": 652
+																},
+																{
+																	"x": 833,
+																	"y": 705
+																},
+																{
+																	"x": 825,
+																	"y": 712
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 791,
+																	"y": 652
+																},
+																{
+																	"x": 808,
+																	"y": 638
+																},
+																{
+																	"x": 851,
+																	"y": 691
+																},
+																{
+																	"x": 834,
+																	"y": 705
+																}
+															]
+														},
+														"text": "m"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															],
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 809,
+																	"y": 638
+																},
+																{
+																	"x": 829,
+																	"y": 622
+																},
+																{
+																	"x": 872,
+																	"y": 675
+																},
+																{
+																	"x": 852,
+																	"y": 691
+																}
+															]
+														},
+														"text": "y"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 1099,
+											"y": 677
+										},
+										{
+											"x": 1116,
+											"y": 678
+										},
+										{
+											"x": 1114,
+											"y": 700
+										},
+										{
+											"x": 1098,
+											"y": 699
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 1099,
+													"y": 677
+												},
+												{
+													"x": 1116,
+													"y": 678
+												},
+												{
+													"x": 1114,
+													"y": 700
+												},
+												{
+													"x": 1098,
+													"y": 699
+												}
+											]
+										},
+										"words": [
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 1099,
+															"y": 677
+														},
+														{
+															"x": 1116,
+															"y": 678
+														},
+														{
+															"x": 1114,
+															"y": 700
+														},
+														{
+															"x": 1098,
+															"y": 699
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1099,
+																	"y": 677
+																},
+																{
+																	"x": 1116,
+																	"y": 678
+																},
+																{
+																	"x": 1114,
+																	"y": 700
+																},
+																{
+																	"x": 1098,
+																	"y": 699
+																}
+															]
+														},
+														"text": "a"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"property": {
+									"detectedLanguages": [
+										{
+											"languageCode": "en",
+											"confidence": 1
+										}
+									]
+								},
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 48,
+											"y": 885
+										},
+										{
+											"x": 510,
+											"y": 882
+										},
+										{
+											"x": 510,
+											"y": 935
+										},
+										{
+											"x": 48,
+											"y": 938
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"property": {
+											"detectedLanguages": [
+												{
+													"languageCode": "en",
+													"confidence": 1
+												}
+											]
+										},
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 48,
+													"y": 885
+												},
+												{
+													"x": 510,
+													"y": 882
+												},
+												{
+													"x": 510,
+													"y": 935
+												},
+												{
+													"x": 48,
+													"y": 938
+												}
+											]
+										},
+										"words": [
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "en"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 48,
+															"y": 885
+														},
+														{
+															"x": 97,
+															"y": 885
+														},
+														{
+															"x": 97,
+															"y": 936
+														},
+														{
+															"x": 48,
+															"y": 936
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															],
+															"detectedBreak": {
+																"type": "SPACE"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 48,
+																	"y": 885
+																},
+																{
+																	"x": 97,
+																	"y": 885
+																},
+																{
+																	"x": 97,
+																	"y": 936
+																},
+																{
+																	"x": 48,
+																	"y": 936
+																}
+															]
+														},
+														"text": "a"
+													}
+												]
+											},
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "en"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 118,
+															"y": 885
+														},
+														{
+															"x": 252,
+															"y": 884
+														},
+														{
+															"x": 252,
+															"y": 936
+														},
+														{
+															"x": 118,
+															"y": 937
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 118,
+																	"y": 898
+																},
+																{
+																	"x": 140,
+																	"y": 898
+																},
+																{
+																	"x": 140,
+																	"y": 926
+																},
+																{
+																	"x": 118,
+																	"y": 926
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 147,
+																	"y": 885
+																},
+																{
+																	"x": 151,
+																	"y": 885
+																},
+																{
+																	"x": 151,
+																	"y": 925
+																},
+																{
+																	"x": 147,
+																	"y": 925
+																}
+															]
+														},
+														"text": "l"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 158,
+																	"y": 898
+																},
+																{
+																	"x": 179,
+																	"y": 898
+																},
+																{
+																	"x": 179,
+																	"y": 925
+																},
+																{
+																	"x": 158,
+																	"y": 925
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 186,
+																	"y": 898
+																},
+																{
+																	"x": 223,
+																	"y": 898
+																},
+																{
+																	"x": 223,
+																	"y": 925
+																},
+																{
+																	"x": 186,
+																	"y": 925
+																}
+															]
+														},
+														"text": "m"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															],
+															"detectedBreak": {
+																"type": "SPACE"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 229,
+																	"y": 898
+																},
+																{
+																	"x": 252,
+																	"y": 898
+																},
+																{
+																	"x": 252,
+																	"y": 936
+																},
+																{
+																	"x": 229,
+																	"y": 936
+																}
+															]
+														},
+														"text": "y"
+													}
+												]
+											},
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "en"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 266,
+															"y": 886
+														},
+														{
+															"x": 375,
+															"y": 885
+														},
+														{
+															"x": 375,
+															"y": 925
+														},
+														{
+															"x": 266,
+															"y": 926
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 266,
+																	"y": 898
+																},
+																{
+																	"x": 283,
+																	"y": 898
+																},
+																{
+																	"x": 283,
+																	"y": 926
+																},
+																{
+																	"x": 266,
+																	"y": 926
+																}
+															]
+														},
+														"text": "s"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 287,
+																	"y": 892
+																},
+																{
+																	"x": 301,
+																	"y": 892
+																},
+																{
+																	"x": 301,
+																	"y": 926
+																},
+																{
+																	"x": 287,
+																	"y": 926
+																}
+															]
+														},
+														"text": "t"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 303,
+																	"y": 899
+																},
+																{
+																	"x": 327,
+																	"y": 899
+																},
+																{
+																	"x": 327,
+																	"y": 926
+																},
+																{
+																	"x": 303,
+																	"y": 926
+																}
+															]
+														},
+														"text": "o"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 331,
+																	"y": 898
+																},
+																{
+																	"x": 351,
+																	"y": 898
+																},
+																{
+																	"x": 351,
+																	"y": 926
+																},
+																{
+																	"x": 331,
+																	"y": 926
+																}
+															]
+														},
+														"text": "c"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															],
+															"detectedBreak": {
+																"type": "SPACE"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 356,
+																	"y": 886
+																},
+																{
+																	"x": 375,
+																	"y": 886
+																},
+																{
+																	"x": 375,
+																	"y": 926
+																},
+																{
+																	"x": 356,
+																	"y": 926
+																}
+															]
+														},
+														"text": "k"
+													}
+												]
+											},
+											{
+												"property": {
+													"detectedLanguages": [
+														{
+															"languageCode": "en"
+														}
+													]
+												},
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 392,
+															"y": 886
+														},
+														{
+															"x": 510,
+															"y": 885
+														},
+														{
+															"x": 510,
+															"y": 935
+														},
+														{
+															"x": 392,
+															"y": 936
+														}
+													]
+												},
+												"symbols": [
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 392,
+																	"y": 898
+																},
+																{
+																	"x": 414,
+																	"y": 898
+																},
+																{
+																	"x": 414,
+																	"y": 936
+																},
+																{
+																	"x": 392,
+																	"y": 936
+																}
+															]
+														},
+														"text": "p"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 420,
+																	"y": 886
+																},
+																{
+																	"x": 440,
+																	"y": 886
+																},
+																{
+																	"x": 440,
+																	"y": 926
+																},
+																{
+																	"x": 420,
+																	"y": 926
+																}
+															]
+														},
+														"text": "h"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 445,
+																	"y": 898
+																},
+																{
+																	"x": 469,
+																	"y": 898
+																},
+																{
+																	"x": 469,
+																	"y": 926
+																},
+																{
+																	"x": 445,
+																	"y": 926
+																}
+															]
+														},
+														"text": "o"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															]
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 471,
+																	"y": 892
+																},
+																{
+																	"x": 485,
+																	"y": 892
+																},
+																{
+																	"x": 485,
+																	"y": 926
+																},
+																{
+																	"x": 471,
+																	"y": 926
+																}
+															]
+														},
+														"text": "t"
+													},
+													{
+														"property": {
+															"detectedLanguages": [
+																{
+																	"languageCode": "en"
+																}
+															],
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 487,
+																	"y": 899
+																},
+																{
+																	"x": 510,
+																	"y": 899
+																},
+																{
+																	"x": 510,
+																	"y": 927
+																},
+																{
+																	"x": 487,
+																	"y": 927
+																}
+															]
+														},
+														"text": "o"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 1122,
+											"y": 895
+										},
+										{
+											"x": 1243,
+											"y": 895
+										},
+										{
+											"x": 1243,
+											"y": 936
+										},
+										{
+											"x": 1122,
+											"y": 936
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 1122,
+													"y": 895
+												},
+												{
+													"x": 1243,
+													"y": 895
+												},
+												{
+													"x": 1243,
+													"y": 936
+												},
+												{
+													"x": 1122,
+													"y": 936
+												}
+											]
+										},
+										"words": [
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 1186,
+															"y": 895
+														},
+														{
+															"x": 1242,
+															"y": 895
+														},
+														{
+															"x": 1242,
+															"y": 906
+														},
+														{
+															"x": 1186,
+															"y": 906
+														}
+													]
+												},
+												"symbols": [
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1186,
+																	"y": 895
+																},
+																{
+																	"x": 1198,
+																	"y": 895
+																},
+																{
+																	"x": 1198,
+																	"y": 906
+																},
+																{
+																	"x": 1186,
+																	"y": 906
+																}
+															]
+														},
+														"text": "A"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1199,
+																	"y": 895
+																},
+																{
+																	"x": 1207,
+																	"y": 895
+																},
+																{
+																	"x": 1207,
+																	"y": 906
+																},
+																{
+																	"x": 1199,
+																	"y": 906
+																}
+															]
+														},
+														"text": "8"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1208,
+																	"y": 895
+																},
+																{
+																	"x": 1219,
+																	"y": 895
+																},
+																{
+																	"x": 1219,
+																	"y": 906
+																},
+																{
+																	"x": 1208,
+																	"y": 906
+																}
+															]
+														},
+														"text": "G"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1219,
+																	"y": 895
+																},
+																{
+																	"x": 1227,
+																	"y": 895
+																},
+																{
+																	"x": 1227,
+																	"y": 906
+																},
+																{
+																	"x": 1219,
+																	"y": 906
+																}
+															]
+														},
+														"text": "7"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1229,
+																	"y": 895
+																},
+																{
+																	"x": 1234,
+																	"y": 895
+																},
+																{
+																	"x": 1234,
+																	"y": 906
+																},
+																{
+																	"x": 1229,
+																	"y": 906
+																}
+															]
+														},
+														"text": "9"
+													},
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "EOL_SURE_SPACE"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1235,
+																	"y": 895
+																},
+																{
+																	"x": 1242,
+																	"y": 895
+																},
+																{
+																	"x": 1242,
+																	"y": 906
+																},
+																{
+																	"x": 1235,
+																	"y": 906
+																}
+															]
+														},
+														"text": "J"
+													}
+												]
+											},
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 1122,
+															"y": 919
+														},
+														{
+															"x": 1243,
+															"y": 919
+														},
+														{
+															"x": 1243,
+															"y": 936
+														},
+														{
+															"x": 1122,
+															"y": 936
+														}
+													]
+												},
+												"symbols": [
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1122,
+																	"y": 920
+																},
+																{
+																	"x": 1145,
+																	"y": 920
+																},
+																{
+																	"x": 1145,
+																	"y": 935
+																},
+																{
+																	"x": 1122,
+																	"y": 935
+																}
+															]
+														},
+														"text": "w"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1146,
+																	"y": 920
+																},
+																{
+																	"x": 1152,
+																	"y": 920
+																},
+																{
+																	"x": 1152,
+																	"y": 935
+																},
+																{
+																	"x": 1146,
+																	"y": 935
+																}
+															]
+														},
+														"text": "w"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1153,
+																	"y": 920
+																},
+																{
+																	"x": 1159,
+																	"y": 920
+																},
+																{
+																	"x": 1159,
+																	"y": 935
+																},
+																{
+																	"x": 1153,
+																	"y": 935
+																}
+															]
+														},
+														"text": "w"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1160,
+																	"y": 920
+																},
+																{
+																	"x": 1166,
+																	"y": 920
+																},
+																{
+																	"x": 1166,
+																	"y": 935
+																},
+																{
+																	"x": 1160,
+																	"y": 935
+																}
+															]
+														},
+														"text": "."
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1167,
+																	"y": 920
+																},
+																{
+																	"x": 1173,
+																	"y": 920
+																},
+																{
+																	"x": 1173,
+																	"y": 935
+																},
+																{
+																	"x": 1167,
+																	"y": 935
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1174,
+																	"y": 920
+																},
+																{
+																	"x": 1184,
+																	"y": 920
+																},
+																{
+																	"x": 1184,
+																	"y": 935
+																},
+																{
+																	"x": 1174,
+																	"y": 935
+																}
+															]
+														},
+														"text": "l"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1185,
+																	"y": 921
+																},
+																{
+																	"x": 1187,
+																	"y": 921
+																},
+																{
+																	"x": 1187,
+																	"y": 936
+																},
+																{
+																	"x": 1185,
+																	"y": 936
+																}
+															]
+														},
+														"text": "a"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1188,
+																	"y": 920
+																},
+																{
+																	"x": 1201,
+																	"y": 920
+																},
+																{
+																	"x": 1201,
+																	"y": 935
+																},
+																{
+																	"x": 1188,
+																	"y": 935
+																}
+															]
+														},
+														"text": "m"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1202,
+																	"y": 920
+																},
+																{
+																	"x": 1205,
+																	"y": 920
+																},
+																{
+																	"x": 1205,
+																	"y": 935
+																},
+																{
+																	"x": 1202,
+																	"y": 935
+																}
+															]
+														},
+														"text": "y"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1206,
+																	"y": 920
+																},
+																{
+																	"x": 1215,
+																	"y": 920
+																},
+																{
+																	"x": 1215,
+																	"y": 935
+																},
+																{
+																	"x": 1206,
+																	"y": 935
+																}
+															]
+														},
+														"text": "."
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1216,
+																	"y": 920
+																},
+																{
+																	"x": 1222,
+																	"y": 920
+																},
+																{
+																	"x": 1222,
+																	"y": 935
+																},
+																{
+																	"x": 1216,
+																	"y": 935
+																}
+															]
+														},
+														"text": "c"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1223,
+																	"y": 919
+																},
+																{
+																	"x": 1233,
+																	"y": 919
+																},
+																{
+																	"x": 1233,
+																	"y": 934
+																},
+																{
+																	"x": 1223,
+																	"y": 934
+																}
+															]
+														},
+														"text": "o"
+													},
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 1234,
+																	"y": 919
+																},
+																{
+																	"x": 1243,
+																	"y": 919
+																},
+																{
+																	"x": 1243,
+																	"y": 934
+																},
+																{
+																	"x": 1234,
+																	"y": 934
+																}
+															]
+														},
+														"text": "m"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							},
+							{
+								"boundingBox": {
+									"vertices": [
+										{
+											"x": 361,
+											"y": 668
+										},
+										{
+											"x": 407,
+											"y": 727
+										},
+										{
+											"x": 368,
+											"y": 757
+										},
+										{
+											"x": 322,
+											"y": 698
+										}
+									]
+								},
+								"paragraphs": [
+									{
+										"boundingBox": {
+											"vertices": [
+												{
+													"x": 361,
+													"y": 668
+												},
+												{
+													"x": 407,
+													"y": 727
+												},
+												{
+													"x": 368,
+													"y": 757
+												},
+												{
+													"x": 322,
+													"y": 698
+												}
+											]
+										},
+										"words": [
+											{
+												"boundingBox": {
+													"vertices": [
+														{
+															"x": 361,
+															"y": 668
+														},
+														{
+															"x": 407,
+															"y": 727
+														},
+														{
+															"x": 368,
+															"y": 757
+														},
+														{
+															"x": 322,
+															"y": 698
+														}
+													]
+												},
+												"symbols": [
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 361,
+																	"y": 668
+																},
+																{
+																	"x": 386,
+																	"y": 700
+																},
+																{
+																	"x": 347,
+																	"y": 730
+																},
+																{
+																	"x": 322,
+																	"y": 698
+																}
+															]
+														},
+														"text": "A"
+													},
+													{
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 388,
+																	"y": 702
+																},
+																{
+																	"x": 398,
+																	"y": 715
+																},
+																{
+																	"x": 359,
+																	"y": 745
+																},
+																{
+																	"x": 349,
+																	"y": 732
+																}
+															]
+														},
+														"text": "B"
+													},
+													{
+														"property": {
+															"detectedBreak": {
+																"type": "LINE_BREAK"
+															}
+														},
+														"boundingBox": {
+															"vertices": [
+																{
+																	"x": 397,
+																	"y": 715
+																},
+																{
+																	"x": 407,
+																	"y": 728
+																},
+																{
+																	"x": 368,
+																	"y": 758
+																},
+																{
+																	"x": 358,
+																	"y": 745
+																}
+															]
+														},
+														"text": "U"
+													}
+												]
+											}
+										]
+									}
+								],
+								"blockType": "TEXT"
+							}
+						]
+					}
+				],
+				"text": "a\na\nalamy\na\nalamy\na\nalamy\n43646\nابوظبي\nalamy\na\na alamy stock photo\nA8G79J\nwww.alamy.com\nABU\n"
+			}
+		}
+	]
+}

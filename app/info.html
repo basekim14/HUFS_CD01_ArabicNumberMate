@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> -->
+  <meta charset="utf-8">
+
+  <!-- <link rel="manifest" href="/manifest.json"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no, viewport-fit=cover">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <meta property="og:title" content="Arabic Number Mate"/>
+  <meta property="og:description" content="아랍 숫자와 관련된 유용한 정보와 실시간 이미지 번역 기능을 제공하는 웹 어플리케이션"/>
+  <meta property="og:image" content="/statics/images/og.png"/>
+
+  <meta name="author" content="">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="application-name" content="Arabic Number Mate">
+  <meta name="theme-color" content="#ffffff">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Arabic Number Mate">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Arabic Number Mate">
+  <link rel="apple-touch-icon" sizes="180x180" href="/statics/images/icons/apple-touch-icon-180x180.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/statics/images/icons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/statics/images/icons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/statics/images/icons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/statics/images/icons/apple-touch-60x60.png">
+
+
+  <!-- <link rel="apple-touch-icon" sizes="60x60" href="/UploadData/PartnerData/kimhye79/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/UploadData/PartnerData/kimhye79/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/UploadData/PartnerData/kimhye79/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/UploadData/PartnerData/kimhye79/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/UploadData/PartnerData/kimhye79/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/UploadData/PartnerData/kimhye79/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/UploadData/PartnerData/kimhye79/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/UploadData/PartnerData/kimhye79/apple-touch-icon-180x180.png"> -->
+
+  <meta name="msapplication-starturl" content="/">
+  <meta name="msapplication-TileImage" content="/statics/images/icons/mstile-150x150.png">
+  <meta name="msapplication-TileColor" content="#ffffff">
+
+  <link rel="mask-icon" href="/statics/images/icon/safari-pinned-tab.svg" color="#dc6d05">
+
+  <link rel="apple-touch-startup-image" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)" href="/statics/images/splash/iphone12pro.png">
+  <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="/statics/images/splash/iphone12mini.png">
+  <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/statics/images/splash/iphone8.png">
+
+  <title>Arabic Number Mate</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&family=Reem+Kuf&family=Roboto+Condensed&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="/statics/style/font.css">
+  <link rel="stylesheet" type="text/css" href="/statics/style/main.css">
+  <link rel="stylesheet" type="text/css" href="/statics/style/theme.css">
+  <link rel="stylesheet" type="text/css" href="/statics/style/normalize.css">
+  <script defer type="text/javascript" src="/statics/js/info.js"></script>
+</head>
+
+<body class="info-page">
+  <div class="header">
+    <div class="backward-btn">
+      <img onclick="location.replace('../');" class="backward-btn__image" src="/statics/images/app/left-arrow.png" />
+    </div>
+    <div class="logo-container">
+      <img class="logo__image" src="/statics/images/app/logo.png" />
+    </div>
+  </div>
+  <div class="top-content">
+    <div class="top-content__title p2">
+      Wanna know
+    </div>
+    <div class="top-content__container">
+      <div class="top-content__container--option top-content__container--state  p4">
+        <img class="state__img" src="/statics/images/app/egp.png"/>
+        <div class="state__iso p4">EGYPT</div>
+      </div>
+      <div class="top-content__container--value">
+        <input class="value__input" type="number" pattern="\d*" />
+        <div class="value__iso p4">EGP</div>
+      </div>
+    </div>
+    <div class="top-content__btn p3">
+      Search
+    </div>
+  </div>
+  <div class="bottom-content">
+    <div class="bottom-content__container">
+      <div class="bottom-content__state p4">
+        <img class="state__img" src="/statics/images/app/krw.png"/>
+        <div class="state__iso p4">KOREA</div>
+      </div>
+      <div class="bottom-content__container--value">
+        <div class="value__result value__result--krw">0</div>
+        <div class="value__iso p4">KRW</div>
+      </div>
+    </div>
+    <div class="bottom-content__container">
+      <div class="bottom-content__state p4">
+        <img class="state__img" src="/statics/images/app/usd.png"/>
+        <div class="state__iso p4">USA</div>
+      </div>
+      <div class="bottom-content__container--value">
+        <div class="value__result value__result--usd">0</div>
+        <div class="value__iso p4">USD</div>
+      </div>
+    </div>
+    <div class="bottom-content__container">
+      <div class="bottom-content__state p4">
+        <img class="state__img" src="/statics/images/app/eur.png"/>
+        <div class="state__iso p4">EU</div>
+      </div>
+      <div class="bottom-content__container--value">
+        <div class="value__result value__result--eur">0</div>
+        <div class="value__iso p4">EUR</div>
+      </div>
+    </div>
+  </div>
+  <div class="state-container state-container--closed">
+    <div class="state state--egp">
+      <div class="state__img-container">
+        <img src="/statics/images/app/egp.png" />
+      </div>
+      <div class="state__name">EGYPT</div>
+    </div>
+    <div class="state state--sar">
+      <div class="state__img-container">
+        <img src="/statics/images/app/sar.png" />
+      </div>
+      <div class="state__name">SAUDI ARABIA</div>
+    </div>
+    <div class="state state--aed">
+      <div class="state__img-container">
+        <img src="/statics/images/app/aed.png" />
+      </div>
+      <div class="state__name">ARAB EMIRATES</div>
+    </div>
+    <div class="state state--qar">
+      <div class="state__img-container">
+        <img src="/statics/images/app/qar.png" />
+      </div>
+      <div class="state__name">QATAR</div>
+    </div>
+    <div class="state state--mxn">
+      <div class="state__img-container">
+        <img src="/statics/images/app/mxn.png" />
+      </div>
+      <div class="state__name">MOROCCO</div>
+    </div>
+    <div class="state state--lbp">
+      <div class="state__img-container">
+        <img src="/statics/images/app/lbp.png" />
+      </div>
+      <div class="state__name">LEBANON</div>
+    </div>
+    <div class="state state--omr">
+      <div class="state__img-container">
+        <img src="/statics/images/app/omr.png" />
+      </div>
+      <div class="state__name">OMAN</div>
+    </div>
+  </div>
+
+
+  <!-- <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker
+        .register('./service_worker.js')  // return promise
+        .then(function() {
+          console.log('[admin] Service Worker is Registed');
+        })
+    }
+  </script> -->
+</body>
+
+</html>

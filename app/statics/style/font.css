@@ -1,0 +1,19 @@
+* {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.top-content__title {
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+.top-content__container--option, .top-content__container *, .top-content__btn, .info-page .bottom-content * {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+html { font-size: 4.5vw; }
+.p1 { font-size: 4rem }
+.p2 { font-size: 3rem }
+.p3 { font-size: 1rem }
+.p4 { font-size: 0.8rem }
+.p5 { font-size: 0.5rem }
+.p6 { font-size: 0.3rem }
